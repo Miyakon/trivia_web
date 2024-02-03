@@ -1,0 +1,121 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Books",
+            "question": "What was the pen name of novelist, Mary Ann Evans?",
+            "correct_answer": "George Eliot",
+            "incorrect_answers": [
+                "George Orwell",
+                "George Bernard Shaw",
+                "George Saunders"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Celebrities",
+            "question": "Which radio personality calls himself &quot;The King of All Media&quot;?",
+            "correct_answer": "Howard Stern",
+            "incorrect_answers": [
+                "Rush Limbaugh",
+                "Pete Tong",
+                "Ryan Seacrest"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Geography",
+            "question": "Which of these cities has a 4&deg; East longitude. ",
+            "correct_answer": "Amsterdam",
+            "incorrect_answers": [
+                "Rio de Janero",
+                "Toronto",
+                "Hong Kong"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "Oxford University is older than the Aztec Empire. ",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "Which country, not including Japan, has the most people of japanese decent?",
+            "correct_answer": "Brazil",
+            "incorrect_answers": [
+                "China",
+                "South Korea",
+                "United States of America"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Which company did Bethesda purchase the Fallout Series from?",
+            "correct_answer": "Interplay Entertainment ",
+            "incorrect_answers": [
+                "Capcom",
+                "Blizzard Entertainment",
+                "Nintendo"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Gadgets",
+            "question": "What is the most significant side venture the popular firearms company, Remington, has pursued?",
+            "correct_answer": "Typewriters",
+            "incorrect_answers": [
+                "Blenders",
+                "Ceiling Fans",
+                "Door Knobs"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "What is the subtitle for Gran Turismo 3?",
+            "correct_answer": "A-Spec",
+            "incorrect_answers": [
+                "Championship",
+                "Drive",
+                "Nitro"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In which Mario game did the Mega Mushroom make its debut?",
+            "correct_answer": "Mario Party 4",
+            "incorrect_answers": [
+                "New Super Mario Bros.",
+                "Mario Kart Wii",
+                "Super Mario 3D World"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Donkey Kong was originally set to be a Popeye arcade game.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        }
+    ]
+}
