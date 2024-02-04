@@ -1,7 +1,3 @@
-# 環境変数を設定する
-`cp .env.template .env`
-.envファイルの中にある変数を設定する
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
